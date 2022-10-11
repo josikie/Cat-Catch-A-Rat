@@ -1,5 +1,5 @@
 Being cat and catch a rat.
-Build with Python.
+This code build with Python.
 How to run :
 1. You need to [download python](https://www.python.org/downloads/) and install it,
 2. Git clone this repository,
